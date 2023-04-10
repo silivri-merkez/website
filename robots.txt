@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altinaystrafor.com/sitemap.xml
